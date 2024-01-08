@@ -1,0 +1,4 @@
+The Current Time Stamp:  
+
+The datetime.now() function returns the current local time and date. 
+It displays datetime in the YYYY-mm-dd hh:mm:ss. microseconds format by default.
